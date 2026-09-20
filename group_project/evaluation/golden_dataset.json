@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Thời gian đăng ký học tập đợt chính thức tại học kỳ 2 năm học 2025 - 2026 diễn ra vào khoảng thời gian nào?",
+    "expected_answer": "Thời gian đăng ký học tập đợt chính thức tại học kỳ 2 năm học 2025 - 2026 diễn ra từ ngày 21/01/2026 đến ngày 02/02/2026.",
+    "expected_context": "1. Đợt đăng ký chính thức: Thời gian: Từ ngày 21/01/2026 đến ngày 02/02/2026; Địa chỉ đăng ký học tập: Sinh viên đăng nhập vào hệ thống đại học điện tử theo hướng dẫn, thực hiện đăng ký và thường xuyên theo dõi kết quả đăng ký trên https://sv.haui.edu.vn"
+  },
+  {
+    "question": "Sinh viên HaUI đăng nhập vào địa chỉ trang web nào để thực hiện đăng ký học phần và theo dõi kết quả?",
+    "expected_answer": "Sinh viên đăng nhập vào hệ thống đại học điện tử tại địa chỉ https://sv.haui.edu.vn (trang thông tin sinh viên).",
+    "expected_context": "Địa chỉ đăng ký học tập: Sinh viên đăng nhập vào hệ thống đại học điện tử theo hướng dẫn, thực hiện đăng ký và thường xuyên theo dõi kết quả đăng ký trên https://sv.haui.edu.vn (trang thông tin sinh viên)"
+  },
+  {
+    "question": "Đợt 1 của đợt đăng ký chính thức học kỳ 2 năm học 2025 - 2026 mở cho đối tượng sinh viên nào?",
+    "expected_answer": "Đợt 1 chỉ dành cho sinh viên năm thứ 4 về trước, diễn ra từ 10h00 ngày 21/01/2026 đến 9h00 ngày 23/01/2026.",
+    "expected_context": "+ Đợt 1: Từ 10h00 ngày 21/01/2026 đến 9h00 ngày 23/01/2026 (Chỉ dành cho sinh viên năm thứ 4 về trước);"
+  },
+  {
+    "question": "Thời gian mở đăng ký học tập cho sinh viên năm thứ 2 là khi nào?",
+    "expected_answer": "Đợt 3 dành cho sinh viên năm thứ 2 diễn ra từ 10h00 ngày 27/01/2026 đến 9h00 ngày 30/01/2026.",
+    "expected_context": "+ Đợt 3: Từ 10h00 ngày 27/01/2026 đến 9h00 ngày 30/01/2026 (Chỉ dành cho sinh viên năm thứ 2);"
+  },
+  {
+    "question": "Sinh viên chưa đăng ký thành công trong đợt chính thức có thể đăng ký bổ sung vào thời gian nào?",
+    "expected_answer": "Sinh viên có thể đăng ký bổ sung vào các lớp học phần được mở từ 10h00 ngày 23/02/2026 đến 10h00 ngày 27/02/2026.",
+    "expected_context": "Sinh viên chưa đăng ký thành công trong đợt đăng ký chính thức có thể đăng ký bổ sung vào các lớp học phần được mở từ 10h00 ngày 23/02/2026 đến 10h00 ngày 27/02/2026."
+  },
+  {
+    "question": "Mã tuyển sinh của Trường Đại học Công nghiệp Hà Nội là gì?",
+    "expected_answer": "Mã trường của Đại học Công nghiệp Hà Nội là DCN.",
+    "expected_context": "Đại học Công nghiệp Hà Nội (Mã trường: DCN) là cơ sở giáo dục đại học công lập với bề dày lịch sử 128 năm (1898-2026) xây dựng và phát triển luôn được đánh giá là cơ sở đào tạo cán bộ kinh tế - kỹ thuật hàng đầu của cả nước."
+  },
+  {
+    "question": "Điều kiện chứng chỉ tiếng Anh quốc tế IELTS Academic để xét tuyển theo Phương thức 2 năm 2026 vào HaUI là bao nhiêu?",
+    "expected_answer": "Thí sinh cần có chứng chỉ tiếng Anh quốc tế IELTS Academic đạt từ 5.0 trở lên (hoặc TOEFL iBT ≥ 50).",
+    "expected_context": "Thí sinh có một trong các chứng chỉ Quốc tế SAT ≥ 1000; Chứng chỉ tiếng Anh quốc tế IELTS Academic ≥ 5.0, TOEFL iBT ≥ 50 (≥ 3.0 theo thang điểm của bài thi TOEFL iBT áp dụng từ năm 2026)"
+  },
+  {
+    "question": "Điểm trung bình môn học THPT yêu cầu đối với thí sinh đăng ký xét tuyển theo Phương thức 2 là bao nhiêu?",
+    "expected_answer": "Thí sinh phải có điểm trung bình môn cả năm lớp 10, 11, 12 của từng môn học trong tổ hợp xét tuyển đạt từ 7,0 điểm trở lên.",
+    "expected_context": "Thí sinh có điểm trung bình môn cả năm lớp 10, 11, 12 của từng môn học trong tổ hợp xét tuyển đạt từ 7,0 điểm trở lên đồng thời có tổng điểm 03 môn thi kỳ thi tốt nghiệp THPT năm 2026 theo tổ hợp xét tuyển đạt tối thiểu 15,00 điểm theo thang điểm 30."
+  },
+  {
+    "question": "Thí sinh đoạt giải nào trong kỳ thi học sinh giỏi cấp tỉnh/thành phố được đăng ký xét tuyển theo Phương thức 2?",
+    "expected_answer": "Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi THPT cấp tỉnh/thành phố các môn văn hóa, thời gian đoạt giải không quá 3 năm.",
+    "expected_context": "Thí sinh đoạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi THPT cấp tỉnh/thành phố các môn Toán, Vật lý, Hóa học, Sinh học, Ngữ văn, Lịch sử, Địa lý, Tin học, Tiếng Anh, Tiếng Trung, Tiếng Nhật, Tiếng Hàn; thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển."
+  },
+  {
+    "question": "Tỷ lệ sinh viên có việc làm sau khi tốt nghiệp 1 năm tại Trường Đại học Công nghiệp Hà Nội là bao nhiêu?",
+    "expected_answer": "Tỷ lệ sinh viên có việc làm sau khi tốt nghiệp 1 năm tại Trường Đại học Công nghiệp Hà Nội đạt trên 95%.",
+    "expected_context": "Tỷ lệ sinh viên có việc làm sau khi tốt nghiệp 1 năm đạt trên 95%. Danh tiếng và vị thế của Nhà trường đã được khảng định và từng bước được nâng cao trong nước và khu vực."
+  },
+  {
+    "question": "Chỉ tiêu tuyển sinh sinh viên quốc tế vào học đại học chính quy năm 2026 của HaUI là bao nhiêu?",
+    "expected_answer": "Năm 2026, Đại học Công nghiệp Hà Nội tuyển sinh 100 chỉ tiêu sinh viên quốc tế vào học các chương trình đào tạo đại học chính quy.",
+    "expected_context": "Năm 2026, Đại học Công nghiệp Hà Nội tuyển sinh 100 chỉ tiêu sinh viên quốc tế vào học các chương trình đào tạo Đại học chính quy và có chính sách cấp học bổng và hỗ trợ kinh phí học tập cho sinh viên quốc tế."
+  },
+  {
+    "question": "Thời gian đào tạo chuẩn trình độ đại học chính quy cho sinh viên quốc tế là bao nhiêu năm?",
+    "expected_answer": "Thời gian đào tạo chuẩn trình độ đại học chính quy cho sinh viên quốc tế là 04 năm.",
+    "expected_context": "2. Thời gian và địa điểm đào tạo: - Thời gian đào tạo chuẩn: 04 năm. - Địa điểm học năm thứ 1: Cơ sở 1: Số 298 Đường Cầu Diễn, Phường Tây Tựu, Thành phố Hà Nội"
+  },
+  {
+    "question": "Sinh viên quốc tế đăng ký chương trình đào tạo bằng tiếng Việt cần đạt trình độ năng lực tiếng Việt bậc mấy?",
+    "expected_answer": "Thí sinh cần có chứng chỉ năng lực tiếng Việt từ Bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài.",
+    "expected_context": "Đối với chương trình đào tạo bằng tiếng Việt: Thí sinh đạt năng lực ngoại ngữ Bậc 3 trở lên theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam hoặc tương đương và có chứng chỉ năng lực tiếng Việt từ Bậc 4 trở lên theo Khung năng lực tiếng Việt dùng cho người nước ngoài."
+  },
+  {
+    "question": "Địa chỉ cơ sở 1 của Trường Đại học Công nghiệp Hà Nội ở đâu?",
+    "expected_answer": "Cơ sở 1 của trường tại Số 298 Đường Cầu Diễn, Phường Tây Tựu, Thành phố Hà Nội (quận Bắc Từ Liêm cũ).",
+    "expected_context": "+ Cơ sở 1: Số 298 Đường Cầu Diễn, Phường Tây Tựu, Thành phố Hà Nội"
+  },
+  {
+    "question": "Nhà trường có các hình thức học bổng và hỗ trợ tài chính nào dành cho sinh viên?",
+    "expected_answer": "Nhà trường có học bổng khuyến khích học tập theo kỳ học, học bổng tài trợ từ doanh nghiệp, học bổng tuyển sinh đầu vào và các quỹ hỗ trợ sinh viên có hoàn cảnh khó khăn.",
+    "expected_context": "Chính sách học bổng và hỗ trợ tài chính dành cho sinh viên bao gồm học bổng khuyến khích học tập dựa trên kết quả học tập và rèn luyện, học bổng doanh nghiệp đồng hành, khen thưởng thủ khoa đầu vào và hỗ trợ tài chính cho sinh viên diện chính sách."
+  }
+]

@@ -21,8 +21,7 @@ OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 
 
 def convert_legal_docs() -> None:
-    # TODO:Convert PDF/DOCX vào standardized/legal. 
-    
+    """Convert PDF/DOCX vào standardized/legal, bỏ qua file không có text."""
     from markitdown import MarkItDown
     legal_dir = LANDING_DIR / "legal"
     output_dir = OUTPUT_DIR / "legal"
@@ -31,9 +30,16 @@ def convert_legal_docs() -> None:
     for path in legal_dir.iterdir():
         if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
             result = converter.convert(str(path))
-            (output_dir / f"{path.stem}.md").write_text(
-                result.text_content, encoding="utf-8"
-            )
+            content = result.text_content.strip()
+            target = output_dir / f"{path.stem}.md"
+            if content:
+                target.write_text(content, encoding="utf-8")
+                print(f"Converted legal: {path.name} -> {target.name} ({len(content)} chars)")
+            else:
+                # Nếu file rỗng (PDF scan ảnh), xóa file cũ nếu có để không vi phạm contract
+                if target.exists():
+                    target.unlink()
+                print(f"Skipping empty text content: {path.name}")
     
 
 
