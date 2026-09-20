@@ -23,18 +23,18 @@ OUTPUT_DIR = Path(__file__).parent.parent / "data" / "standardized"
 def convert_legal_docs() -> None:
     # TODO:Convert PDF/DOCX vào standardized/legal. 
     #
-    # from markitdown import MarkItDown
-    # legal_dir = LANDING_DIR / "legal"
-    # output_dir = OUTPUT_DIR / "legal"
-    # output_dir.mkdir(parents=True, exist_ok=True)
-    # converter = MarkItDown()
-    # for path in legal_dir.iterdir():
-    #     if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
-    #         result = converter.convert(str(path))
-    #         (output_dir / f"{path.stem}.md").write_text(
-    #             result.text_content, encoding="utf-8"
-    #         )
-    raise NotImplementedError("Implement convert_legal_docs")
+     from markitdown import MarkItDown
+     legal_dir = LANDING_DIR / "legal"
+     output_dir = OUTPUT_DIR / "legal"
+     output_dir.mkdir(parents=True, exist_ok=True)
+     converter = MarkItDown()
+     for path in legal_dir.iterdir():
+         if path.suffix.lower() in {".pdf", ".doc", ".docx"}:
+             result = converter.convert(str(path))
+             (output_dir / f"{path.stem}.md").write_text(
+                 result.text_content, encoding="utf-8"
+             )
+    #
 
 
 def convert_news_articles() -> None:
