@@ -1,0 +1,77 @@
+[
+	{
+		"question": "Nam 2026, HaUI co bao nhieu nganh va chuong trinh dao tao dat chuan kiem dinh quoc gia?",
+		"expected_answer": "Nam 2026, HaUI co 49 nganh va chuong trinh dao tao dat chuan kiem dinh quoc gia.",
+		"expected_context": "legal/Hoc-bong.md"
+	},
+	{
+		"question": "Dieu kien diem trung binh mon lop 10, 11, 12 trong phuong thuc xet tuyen ket hop la bao nhieu?",
+		"expected_answer": "Diem trung binh mon ca nam lop 10, 11, 12 cua tung mon trong to hop xet tuyen phai dat tu 7,0 diem tro len.",
+		"expected_context": "legal/Hoc-bong.md"
+	},
+	{
+		"question": "Thi sinh co the dung IELTS Academic toi thieu bao nhieu de dang ky theo phuong thuc ket hop?",
+		"expected_answer": "Thi sinh can IELTS Academic tu 5.0 tro len; mot so chuong trinh ngon ngu co nguong rieng cao hon.",
+		"expected_context": "legal/Hoc-bong.md"
+	},
+	{
+		"question": "Tong diem toi thieu cua 3 mon thi tot nghiep THPT theo to hop xet tuyen la bao nhieu?",
+		"expected_answer": "Tong diem toi thieu la 15,00 diem theo thang diem 30.",
+		"expected_context": "legal/Hoc-bong.md"
+	},
+	{
+		"question": "Dot dang ky chinh thuc hoc ky 2 nam hoc 2025-2026 dien ra tu ngay nao den ngay nao?",
+		"expected_answer": "Dot dang ky chinh thuc dien ra tu ngay 21/01/2026 den ngay 02/02/2026.",
+		"expected_context": "legal/Dang-ky-tin-chi.md"
+	},
+	{
+		"question": "Sinh vien dang ky hoc tap hoc ky 2 tren dia chi nao?",
+		"expected_answer": "Sinh vien dang nhap he thong dai hoc dien tu tai sv.haui.edu.vn.",
+		"expected_context": "legal/Dang-ky-tin-chi.md"
+	},
+	{
+		"question": "Dot dang ky bo sung vao cac lop da mo bat dau luc nao?",
+		"expected_answer": "Dot dang ky bo sung bat dau tu 10h00 ngay 23/02/2026 den 10h00 ngay 27/02/2026.",
+		"expected_context": "legal/Dang-ky-tin-chi.md"
+	},
+	{
+		"question": "Thong bao tuyen sinh dai hoc chinh quy nam 2026 co nhung phuong thuc tuyen sinh nao?",
+		"expected_answer": "Thong bao neu xet tuyen thang, xet tuyen thi sinh dat giai hoac co chung chi quoc te, xet diem thi tot nghiep THPT va xet ket qua danh gia nang luc.",
+		"expected_context": "legal/Tuyen-sinh.md"
+	},
+	{
+		"question": "Ma truong cua Dai hoc Cong nghiep Ha Noi trong thong bao tuyen sinh 2026 la gi?",
+		"expected_answer": "Ma truong la DCN.",
+		"expected_context": "legal/Tuyen-sinh.md"
+	},
+	{
+		"question": "Ty le sinh vien co viec lam sau khi tot nghiep mot nam duoc neu la bao nhieu?",
+		"expected_answer": "Ty le sinh vien co viec lam sau khi tot nghiep mot nam dat tren 95%.",
+		"expected_context": "legal/Tuyen-sinh.md"
+	},
+	{
+		"question": "Bai viet article 04 thong bao tuyen sinh cho chuong trinh nao nam 2026?",
+		"expected_answer": "Bai viet thong bao tuyen sinh dai hoc chinh quy cho chuong trinh Khoa hoc may tinh nam 2026.",
+		"expected_context": "news/article_04.md"
+	},
+	{
+		"question": "Bai article 05 noi ve noi dung gi?",
+		"expected_answer": "Bai viet noi ve ho tro tai chinh va hoc bong danh cho sinh vien HaUI.",
+		"expected_context": "news/article_05.md"
+	},
+	{
+		"question": "Bai article 06 co tieu de va noi dung chinh la gi?",
+		"expected_answer": "Bai viet noi ve ke hoach dang ky va hoc tap hoc ky phu 2 nam hoc 2025-2026.",
+		"expected_context": "news/article_06.md"
+	},
+	{
+		"question": "Bai article 07 thong bao viec gi lien quan den hoc ky phu 2?",
+		"expected_answer": "Bai viet thong bao cac lop hoc phan duoc mo va khong duoc mo trong hoc ky phu 2 nam hoc 2025-2026.",
+		"expected_context": "news/article_07.md"
+	},
+	{
+		"question": "Bai article 10 gioi thieu chu de nao cua Dai hoc Cong nghiep Ha Noi?",
+		"expected_answer": "Bai viet gioi thieu hoc bong cua Dai hoc Cong nghiep Ha Noi.",
+		"expected_context": "news/article_10.md"
+	}
+]

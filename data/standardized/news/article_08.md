@@ -2,7 +2,7 @@
 
 **Source:** https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255
 
-**Crawled:** 2026-09-20T15:43:18.515574
+**Crawled:** 2026-09-20T17:16:33.227933
 
 ---
 
@@ -64,7 +64,7 @@
 [TRANG CHỦ](https://sict.haui.edu.vn/vn/) > [TUYỂN SINH ĐẠI HỌC](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc)
 Đại học Công Nghiệp Hà Nội dự kiến một số điểm mới trong tuyển sinh đại học chính quy năm 2025. 
   * [Thứ Sáu, 09:34 14/02/2025](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255)
-  * [4367](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255)
+  * [4372](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255)
 
 
 Năm 2025, Đại học Công nghiệp Hà Nội dự kiến tuyển 7.990 chỉ tiêu cho 62 ngành/chương trình đào tạo đại học chính quy theo 5 phương thức tuyển sinh (trong đó có 10 chương trình đào tạo bằng Tiếng Anh). 
@@ -146,3 +146,4 @@ Email: sict@haui.edu.vn
 
 #### BẢN ĐỒ CHỈ DẪN
 Copyright © 2025 [School of Information and Communications Technology](https://www.haui.edu.vn "School of Information and Communications Technology")
+[](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255#top)

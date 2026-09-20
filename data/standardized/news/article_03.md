@@ -2,7 +2,7 @@
 
 **Source:** https://major.haui.edu.vn/vn/tin-tuc/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/67609
 
-**Crawled:** 2026-09-20T15:42:31.092365
+**Crawled:** 2026-09-20T17:16:00.000612
 
 ---
 
@@ -47,7 +47,7 @@ Subscribe Now
 ![](https://major.haui.edu.vn/media/114/t114138.jpg)
   * Thứ Tư, 08:20 15/04/2026 
   * [ ](https://major.haui.edu.vn/vn/tin-tuc/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/67609)
-2014 Lượt xem 
+2021 Lượt xem 
 
 
 ## Thông tin tuyển sinh trình độ đại học năm 2026

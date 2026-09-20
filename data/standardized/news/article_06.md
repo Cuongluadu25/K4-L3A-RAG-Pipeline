@@ -2,7 +2,7 @@
 
 **Source:** https://sict.haui.edu.vn/vn/thong-bao/ke-hoach-dang-ky-va-hoc-tap-hoc-ky-phu-2-nam-hoc-2025-2026/71774
 
-**Crawled:** 2026-09-20T15:42:48.962335
+**Crawled:** 2026-09-20T17:16:29.786836
 
 ---
 
@@ -64,7 +64,7 @@
 [TRANG CHỦ](https://sict.haui.edu.vn/vn/) > [THÔNG BÁO](https://sict.haui.edu.vn/vn/thong-bao)
 Kế hoạch đăng ký và học tập học kỳ phụ 2 năm học 2025 – 2026 
   * [Thứ Sáu, 08:23 29/05/2026](https://sict.haui.edu.vn/vn/thong-bao/ke-hoach-dang-ky-va-hoc-tap-hoc-ky-phu-2-nam-hoc-2025-2026/71774)
-  * [1811](https://sict.haui.edu.vn/vn/thong-bao/ke-hoach-dang-ky-va-hoc-tap-hoc-ky-phu-2-nam-hoc-2025-2026/71774)
+  * [1818](https://sict.haui.edu.vn/vn/thong-bao/ke-hoach-dang-ky-va-hoc-tap-hoc-ky-phu-2-nam-hoc-2025-2026/71774)
 
 
 Nhằm tạo điều kiện cho sinh viên chủ động xây dựng kế hoạch học tập, cải thiện kết quả học tập và hoàn thành chương trình đào tạo theo đúng tiến độ, Nhà trường thông báo kế hoạch đăng ký, tổ chức giảng dạy và thi học kỳ phụ 2 năm học 2025 – 2026 đối với sinh viên đại học các khóa 

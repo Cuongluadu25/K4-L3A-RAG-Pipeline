@@ -2,7 +2,7 @@
 
 **Source:** https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/69b4e60495dfe0072a789cf6
 
-**Crawled:** 2026-09-20T15:42:22.736084
+**Crawled:** 2026-09-20T17:15:57.093807
 
 ---
 
@@ -27,7 +27,7 @@
 
 [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg) ](https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/ket-qua-xet-tuyen-dai-hoc-chinh-quy-dot-2-chuong-trinh-dao-tao-bang-tieng-anh-nam-2026/6a9aac2615f3e30f913e9cac) [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764119457261.jpg) ](https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/69b4e60495dfe0072a789cf6) [ ![Hệ thống đăng ký xét tuyển](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764118411925.jpg) ](https://xettuyen.haui.edu.vn/ "Hệ thống đăng ký xét tuyển") ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg)
 ### Thông tin tuyển sinh trình độ đại học năm 2026
-14/03/2026 04:00:00 57824
+14/03/2026 04:00:00 57836
 **THÔNG TIN TUYỂN SINH ĐẠI HỌC NĂM 2026**
 _(Kèm theo Quyết định số 356/QĐ-ĐHCN ngày 14 tháng 3 năm 2026 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội)_
 **I. THÔNG TIN CHUNG**

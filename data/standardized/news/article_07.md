@@ -2,7 +2,7 @@
 
 **Source:** https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822
 
-**Crawled:** 2026-09-20T15:42:53.476935
+**Crawled:** 2026-09-20T17:16:31.431350
 
 ---
 
@@ -64,7 +64,7 @@
 [TRANG CHỦ](https://sict.haui.edu.vn/vn/) > [THÔNG BÁO](https://sict.haui.edu.vn/vn/thong-bao)
 Thông báo về việc mở, không mở các lớp học phần học kỳ phụ 2 năm học 2025 - 2026 
   * [Thứ Ba, 16:09 23/06/2026](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
-  * [300](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+  * [308](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
 
 
 Đại học Công nghiệp Hà Nội thông báo tới sinh viên đại học các khóa về danh sách các lớp học phần được mở và không mở trong học kỳ phụ 2 năm học 2025 - 2026. 

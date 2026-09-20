@@ -2,7 +2,7 @@
 
 **Source:** https://dsa.haui.edu.vn/vn/hoc-bong-quy-khuyen-hoc/hoc-bong-dai-hoc-cong-nghiep-ha-noi/62589
 
-**Crawled:** 2026-09-20T16:15:03.060283
+**Crawled:** 2026-09-20T17:16:45.874425
 
 ---
 

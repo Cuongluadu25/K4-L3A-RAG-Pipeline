@@ -22,24 +22,42 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
     # TODO: Thêm ít nhất 5 public URL.
+    "https://tuyensinh.haui.edu.vn/tin-tuc/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026/69e6fed295dfe0072a789d00",
+
+    "https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/69b4e60495dfe0072a789cf6",
+
+    "https://major.haui.edu.vn/vn/tin-tuc/thong-tin-tuyen-sinh-trinh-do-dai-hoc-nam-2026/67609",
+
+    "https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/tuyen-sinh-dai-hoc-chinh-quy-ctdt-khoa-hoc-may-tinh-nam-2026/71770",
+
+    "https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191",
+
+    "https://sict.haui.edu.vn/vn/thong-bao/ke-hoach-dang-ky-va-hoc-tap-hoc-ky-phu-2-nam-hoc-2025-2026/71774",
+
+    "https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822",
+
+    "https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/dai-hoc-cong-nghiep-ha-noi-du-kien-mot-so-diem-moi-trong-tuyen-sinh-dai-hoc-chinh-quy-nam-2025/71255",
+
+    "https://tuyensinh.haui.edu.vn/tin-tuc/thong-tin-tuyen-sinh-dai-hoc-nam-2025/680f9d53f721616a54f6495f",
+
+    "https://dsa.haui.edu.vn/vn/hoc-bong-quy-khuyen-hoc/hoc-bong-dai-hoc-cong-nghiep-ha-noi/62589",
 ]
 
 
 async def crawl_article(url: str) -> dict:
     # TODO: Implement crawling logic.
     #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    from datetime import datetime
+    from crawl4ai import AsyncWebCrawler
+    
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+        return {
+            "url": url,
+            "title": result.metadata.get("title", "Unknown"),
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": result.markdown,
+        }
 
 
 async def crawl_all() -> None:

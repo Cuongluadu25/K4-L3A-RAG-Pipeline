@@ -2,7 +2,7 @@
 
 **Source:** https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/tuyen-sinh-dai-hoc-chinh-quy-ctdt-khoa-hoc-may-tinh-nam-2026/71770
 
-**Crawled:** 2026-09-20T15:42:33.774966
+**Crawled:** 2026-09-20T17:16:17.186038
 
 ---
 
@@ -64,7 +64,7 @@
 [TRANG CHỦ](https://sict.haui.edu.vn/vn/) > [TUYỂN SINH ĐẠI HỌC](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc)
 Tuyển sinh đại học chính quy CTĐT Khoa học máy tính năm 2026 
   * [Thứ Năm, 14:49 23/04/2026](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/tuyen-sinh-dai-hoc-chinh-quy-ctdt-khoa-hoc-may-tinh-nam-2026/71770)
-  * [1461](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/tuyen-sinh-dai-hoc-chinh-quy-ctdt-khoa-hoc-may-tinh-nam-2026/71770)
+  * [1466](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/tuyen-sinh-dai-hoc-chinh-quy-ctdt-khoa-hoc-may-tinh-nam-2026/71770)
 
 
 Căn cứ Thông tin tuyển sinh đại học năm 2026 ban hành kèm theo Quyết định số 356/QĐ-ĐHCN ngày 14 tháng 3 năm 2026 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội, Nhà trường thông báo tuyển sinh đại học chính quy năm 2026, cụ thể như sau 
@@ -175,9 +175,9 @@ Tags: [Tuyển sinh năm 2026](https://sict.haui.edu.vn/vn/tags?q=Tuy%E1%BB%83n%
 [ » CTĐT Công nghệ Thông tin tại Trường Công nghệ Thông tin và Truyền thông – Đại học Công nghiệp Hà Nội (19/05/2025) ](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/ctdt-cong-nghe-thong-tin-tai-truong-cong-nghe-thong-tin-va-truyen-thong-dai-hoc-cong-nghiep-ha-noi/71355)
 ### Tin tiêu điểm
 [ ![Trường đại học Công nghiệp Hà Nội chính thức chuyển thành Đại học Công nghiệp Hà Nội](https://sict.haui.edu.vn/media/82/m82075.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/truong-dai-hoc-cong-nghiep-ha-noi-chinh-thuc-chuyen-thanh-dai-hoc-cong-nghiep-ha-noi/71526) [ Trường đại học Công nghiệp Hà Nội chính thức chuyển thành Đại học Công nghiệp Hà Nội ](https://sict.haui.edu.vn/vn/thong-bao/truong-dai-hoc-cong-nghiep-ha-noi-chinh-thuc-chuyen-thanh-dai-hoc-cong-nghiep-ha-noi/71526) Thứ Hai, 10:28 24/11/2025
-[ ![Bộ trưởng Bộ Công Thương gửi thư chúc mừng nhân ngày Nhà giáo Việt Nam 20/11](https://sict.haui.edu.vn/media/81/m81766.jpg) ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) [ Bộ trưởng Bộ Công Thương gửi thư chúc mừng nhân ngày Nhà giáo Việt Nam 20/11 ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) Thứ Ba, 16:23 11/11/2025
-[ ![Sinh viên Khóa 19 Khoa Công nghệ thông tin đạt Học bổng HaUI 100% toàn khóa học.](https://sict.haui.edu.vn/media/79/m79003.jpg) ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) [ Sinh viên Khóa 19 Khoa Công nghệ thông tin đạt Học bổng HaUI 100% toàn khóa học. ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) Thứ Sáu, 11:07 20/09/2024
-[ ![Đội bóng khoa Công nghệ thông tin cùng những trận cầu đáng nhớ](https://sict.haui.edu.vn/media/77/m77248.jpg) ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) [ Đội bóng khoa Công nghệ thông tin cùng những trận cầu đáng nhớ ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) Thứ Bảy, 10:00 23/07/2022
+[ ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) [ Bộ trưởng Bộ Công Thương gửi thư chúc mừng nhân ngày Nhà giáo Việt Nam 20/11 ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) Thứ Ba, 16:23 11/11/2025
+[ ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) [ Sinh viên Khóa 19 Khoa Công nghệ thông tin đạt Học bổng HaUI 100% toàn khóa học. ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) Thứ Sáu, 11:07 20/09/2024
+[ ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) [ Đội bóng khoa Công nghệ thông tin cùng những trận cầu đáng nhớ ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) Thứ Bảy, 10:00 23/07/2022
 [ ](https://sict.haui.edu.vn/vn/tin-tuc/dai-hoi-dai-bieu-lien-chi-doan-khoa-cong-nghe-thong-tin-lan-thu-x-nhiem-ky-2022-2024/68570) [ Đại hội đại biểu Liên chi Đoàn khoa Công nghệ thông tin lần thứ X, nhiệm kỳ 2022 - 2024 ](https://sict.haui.edu.vn/vn/tin-tuc/dai-hoi-dai-bieu-lien-chi-doan-khoa-cong-nghe-thong-tin-lan-thu-x-nhiem-ky-2022-2024/68570) Thứ Hai, 15:00 18/04/2022
 ### Các bài đã đăng
 [ ![Khối CNTT & Truyền thông – SICT: Cơ hội việc làm rộng mở, thu nhập dẫn đầu thị trường](https://sict.haui.edu.vn/media/82/m82493.jpg) ](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/khoi-cntt-truyen-thong-sict-co-hoi-viec-lam-rong-mo-thu-nhap-dan-dau-thi-truong/71602) [ Khối CNTT & Truyền thông – SICT: Cơ hội việc làm rộng mở, thu nhập dẫn đầu thị trường ](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc/khoi-cntt-truyen-thong-sict-co-hoi-viec-lam-rong-mo-thu-nhap-dan-dau-thi-truong/71602) Thứ Năm, 15:14 15/01/2026

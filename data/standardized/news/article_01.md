@@ -2,7 +2,7 @@
 
 **Source:** https://tuyensinh.haui.edu.vn/tin-tuc/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026/69e6fed295dfe0072a789d00
 
-**Crawled:** 2026-09-20T16:14:05.687773
+**Crawled:** 2026-09-20T17:15:38.544632
 
 ---
 
@@ -27,7 +27,7 @@
 
 [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg) ](https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/ket-qua-xet-tuyen-dai-hoc-chinh-quy-dot-2-chuong-trinh-dao-tao-bang-tieng-anh-nam-2026/6a9aac2615f3e30f913e9cac) [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764119457261.jpg) ](https://tuyensinh.haui.edu.vn/tin-tuc/thong-bao-tuyen-sinh-dai-hoc-chinh-quy-nam-2026/69e6fed295dfe0072a789d00) [ ![Hệ thống đăng ký xét tuyển](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764118411925.jpg) ](https://xettuyen.haui.edu.vn/ "Hệ thống đăng ký xét tuyển") ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg)
 ### Thông báo tuyển sinh đại học chính quy năm 2026
-21/04/2026 04:00:00 49702
+21/04/2026 04:00:00 49710
 **THÔNG BÁO**  
 **Tuyển sinh đại học chính quy năm 2026**
 Đại học Công nghiệp Hà Nội (Mã trường: DCN) là cơ sở giáo dục đại học công lập với bề dày lịch sử 128 năm (1898-2026) xây dựng và phát triển luôn được đánh giá là cơ sở đào tạo cán bộ kinh tế - kỹ thuật hàng đầu của cả nước. Đến nay, Nhà trường đã được trao tặng Huân chương Hồ Chí Minh, danh hiệu Anh hùng thời kỳ đổi mới và nhiều danh hiệu cao quý khác. Là cơ sở giáo dục đại học đạt chuẩn kiểm định quốc gia, 49 ngành và chương trình đào tạo đạt chuẩn kiểm định quốc gia, 5 chương trình đào tạo đạt chuẩn kiểm định chất lượng ABET Hoa Kỳ, xếp hạng đại học 5 sao theo hệ thống đối sánh chất lượng UPM, với trên 42% giảng viên có trình độ tiến sĩ có học hàm giáo sư, phó giáo sư, hệ thống giảng đường, phòng thực hành, thí nghiệm, khu ký túc xá, khu dịch vụ sinh viên khang trang hiện đại trên diện tích gần 50 ha, Nhà trường có đủ điều kiện đảm bảo quy mô đào tạo trên 32.000 học viên, sinh viên các cấp trình độ.

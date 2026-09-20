@@ -2,7 +2,7 @@
 
 **Source:** https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191
 
-**Crawled:** 2026-09-20T15:42:42.924539
+**Crawled:** 2026-09-20T17:16:23.581632
 
 ---
 
@@ -96,7 +96,7 @@ Toggle navigation [ ![Đại học Công Nghiệp Hà Nội](https://www.haui.ed
 [TRANG CHỦ](https://www.haui.edu.vn/vn/) > [HỌC BỔNG - HỌC PHÍ](https://www.haui.edu.vn/vn/hoc-bong-hoc-phi)
 Hỗ trợ tài chính và học bổng dành cho sinh viên HaUI 
   * [Thứ Sáu, 08:54 11/09/2026](https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191)
-  * [1298](https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191)
+  * [1306](https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191)
 
 
 Trong quá trình học tập tại Đại học Công nghiệp Hà Nội, sinh viên có cơ hội tiếp cận nhiều chính sách hỗ trợ tài chính và chương trình học bổng, từ miễn, giảm học phí, hỗ trợ học phí, hỗ trợ vay vốn đến học bổng khuyến khích học tập và học bổng từ các doanh nghiệp, tổ chức, đối tác. Các chính sách góp phần hỗ trợ sinh viên giảm bớt áp lực tài chính, yên tâm học tập, rèn luyện và phát triển trong suốt hành trình tại HaUI. 

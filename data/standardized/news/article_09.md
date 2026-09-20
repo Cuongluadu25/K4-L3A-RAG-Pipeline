@@ -2,7 +2,7 @@
 
 **Source:** https://tuyensinh.haui.edu.vn/tin-tuc/thong-tin-tuyen-sinh-dai-hoc-nam-2025/680f9d53f721616a54f6495f
 
-**Crawled:** 2026-09-20T15:43:39.974186
+**Crawled:** 2026-09-20T17:16:42.472607
 
 ---
 
@@ -27,7 +27,7 @@
 
 [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg) ](https://tuyensinh.haui.edu.vn/dai-hoc-chinh-quy/ket-qua-xet-tuyen-dai-hoc-chinh-quy-dot-2-chuong-trinh-dao-tao-bang-tieng-anh-nam-2026/6a9aac2615f3e30f913e9cac) [ ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764119457261.jpg) ](https://tuyensinh.haui.edu.vn/tin-tuc/thong-tin-tuyen-sinh-dai-hoc-nam-2025/680f9d53f721616a54f6495f) [ ![Hệ thống đăng ký xét tuyển](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1764118411925.jpg) ](https://xettuyen.haui.edu.vn/ "Hệ thống đăng ký xét tuyển") ![](https://tuyensinh.haui.edu.vn/static/uploads/sliderImages/1788523513017.jpg)
 ### Thông tin tuyển sinh đại học năm 2025
-28/04/2025 07:00:00 17159
+28/04/2025 07:00:00 17164
 **THÔNG TIN TUYỂN SINH ĐẠI HỌC NĂM 2025**
 **I. THÔNG TIN CHUNG**
 1. Tên cơ sở đào tạo: TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI.
