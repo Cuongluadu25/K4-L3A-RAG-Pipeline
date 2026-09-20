@@ -1,0 +1,148 @@
+# Thông báo về việc mở, không mở các lớp học phần học kỳ phụ 2 năm học 2025 - 2026
+
+**Source:** https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822
+
+**Crawled:** 2026-09-20T15:42:53.476935
+
+---
+
+[ ![Trường Công nghệ thông tin và Truyền thông](https://sict.haui.edu.vn/dnn/web/haui/assets/images/logo-ngang.svg) ](https://sict.haui.edu.vn/vn/)
+  * [ ![Tiếng Việt](https://sict.haui.edu.vn/dnn/web/haui/images/vn.png)](https://sict.haui.edu.vn/vn)
+  * [ ![Tiếng Anh](https://sict.haui.edu.vn/dnn/web/haui/images/en.png) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+
+
+[ ![Trường ngoài ngữ du lịch](https://sict.haui.edu.vn/dnn/web/haui/assets/images/logo-ngang.svg) ](https://sict.haui.edu.vn/vn/) Toggle navigation
+  * [](https://sict.haui.edu.vn/vn/)
+  * [TRANG HaUI](https://www.haui.edu.vn "TRANG HaUI")
+  * [GIỚI THIỆU ](https://sict.haui.edu.vn/vn/html/gioi-thieu)
+    * [THÔNG TIN CHUNG](https://sict.haui.edu.vn/vn/html/thong-tin-chung "THÔNG TIN CHUNG")
+    * [CƠ CẤU TỔ CHỨC](https://sict.haui.edu.vn/vn/html/bo-may-to-chuc "CƠ CẤU TỔ CHỨC")
+    * [CHIẾN LƯỢC PHÁT TRIỂN](https://sict.haui.edu.vn/vn/html/chien-luoc-phat-trien "CHIẾN LƯỢC PHÁT TRIỂN")
+    * [CÁN BỘ GIẢNG VIÊN](https://sict.haui.edu.vn/vn/html/can-bo-giang-vien "CÁN BỘ GIẢNG VIÊN")
+    * [CƠ SỞ VẬT CHẤT](https://sict.haui.edu.vn/vn/html/co-so-vat-chat "CƠ SỞ VẬT CHẤT")
+    * [LIÊN HỆ](https://sict.haui.edu.vn/vn/html/dia-chi-lien-he "LIÊN HỆ")
+  * [ĐÀO TẠO ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+    * [ĐẠI HỌC](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822 "ĐẠI HỌC")
+      * [KHOA HỌC MÁY TÍNH](https://sict.haui.edu.vn/vn/html/khoa-hoc-may-tinh "KHOA HỌC MÁY TÍNH")
+      * [KỸ THUẬT PHẦN MỀM](https://sict.haui.edu.vn/vn/html/ky-thuat-phan-mem "KỸ THUẬT PHẦN MỀM")
+      * [HỆ THỐNG THÔNG TIN](https://sict.haui.edu.vn/vn/html/dai-hoc-he-thong-thong-tin "HỆ THỐNG THÔNG TIN")
+      * [CÔNG NGHỆ THÔNG TIN](https://sict.haui.edu.vn/vn/html/cong-nghe-thong-tin "CÔNG NGHỆ THÔNG TIN")
+      * [CÔNG NGHỆ ĐA PHƯƠNG TIỆN](https://sict.haui.edu.vn/vn/html/cong-nghe-da-phuong-tien "CÔNG NGHỆ ĐA PHƯƠNG TIỆN")
+      * [AN TOÀN THÔNG TIN](https://sict.haui.edu.vn/vn/html/an-toan-thong-tin "AN TOÀN THÔNG TIN")
+      * [MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG DỮ LIỆU](https://sict.haui.edu.vn/vn/html/mang-may-tinh-va-truyen-thong-du-lieu "MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG DỮ LIỆU")
+      * [KHOA HỌC MÁY TÍNH BẰNG TIẾNG ANH](https://sict.haui.edu.vn/vn/html/khoa-hoc-may-tinh-bang-tieng-anh "KHOA HỌC MÁY TÍNH BẰNG TIẾNG ANH")
+      * [TRÍ TUỆ NHÂN TẠO](https://sict.haui.edu.vn/vn/html/tri-tue-nhan-tao "TRÍ TUỆ NHÂN TẠO")
+    * [SAU ĐẠI HỌC](https://sict.haui.edu.vn/vn/html/sau-dai-hoc "SAU ĐẠI HỌC")
+      * [HỆ THỐNG THÔNG TIN](https://sict.haui.edu.vn/vn/html/cao-hoc-he-thong-thong-tin "HỆ THỐNG THÔNG TIN")
+    * [KẾ HOẠCH](https://sict.haui.edu.vn/vn/ke-hoach "KẾ HOẠCH")
+    * [TIẾN ĐỘ](https://sict.haui.edu.vn/vn/tien-do "TIẾN ĐỘ")
+    * [QUY CHẾ, BIỂU MẪU](https://sict.haui.edu.vn/vn/html/quy-che "QUY CHẾ, BIỂU MẪU")
+  * [TUYỂN SINH ](https://sict.haui.edu.vn/vn/tuyen-sinh)
+    * [Đại học](https://sict.haui.edu.vn/vn/tuyen-sinh-dai-hoc "Đại học")
+    * [Sau đại học](https://sict.haui.edu.vn/vn/tuyen-sinh-sau-dai-hoc "Sau đại học")
+  * [KHOA ](https://sict.haui.edu.vn/vn/html/khoa)
+    * [Khoa Công nghệ thông tin](https://sict.haui.edu.vn/vn/html/khoa-cong-nghe-thong-tin "Khoa Công nghệ thông tin")
+    * [Khoa Công nghệ phần mềm](https://sict.haui.edu.vn/vn/html/khoa-cong-nghe-phan-mem "Khoa Công nghệ phần mềm")
+    * [Khoa Khoa học máy tính](https://sict.haui.edu.vn/vn/html/khoa-khoa-hoc-may-tinh "Khoa Khoa học máy tính")
+    * [Khoa Mạng máy tính và truyền thông](https://sict.haui.edu.vn/vn/html/khoa-mang-may-tinh-va-truyen-thong "Khoa Mạng máy tính và truyền thông")
+  * [PHÒNG/TRUNG TÂM ](https://sict.haui.edu.vn/vn/html/phong-trung-tam)
+    * [Phòng tổng hợp](https://sict.haui.edu.vn/vn/html/phong-tong-hop "Phòng tổng hợp")
+    * [Trung tâm Hợp tác phát triển](https://sict.haui.edu.vn/vn/html/trung-tam-hop-tac-phat-trien "Trung tâm Hợp tác phát triển")
+    * [Trung tâm Nghiên cứu và Ứng dụng Trí tuệ nhân tạo](https://sict.haui.edu.vn/vn/html/trung-tam-nghien-cuu-va-ung-dung-tri-tue-nhan-tao "Trung tâm Nghiên cứu và Ứng dụng Trí tuệ nhân tạo")
+  * [KHOA HỌC - CÔNG NGHỆ ](https://sict.haui.edu.vn/vn/nghien-cuu-khoa-hoc)
+    * [Công trình công bố](https://sict.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo "Công trình công bố")
+    * [ĐỀ TÀI, DỰ ÁN](https://sict.haui.edu.vn/vn/de-tai-du-an "ĐỀ TÀI, DỰ ÁN")
+    * [SINH VIÊN NCKH](https://sict.haui.edu.vn/vn/sinh-vien-nckh "SINH VIÊN NCKH")
+    * [TIN KHCN](https://sict.haui.edu.vn/vn/tin-khcn "TIN KHCN")
+    * [Các nhóm nghiên cứu](https://sict.haui.edu.vn/vn/html/cac-nhom-nghien-cuu "Các nhóm nghiên cứu")
+  * [THƯ VIỆN ẢNH](https://sict.haui.edu.vn/vn/thu-vien-anh "THƯ VIỆN ẢNH")
+  * [ ![Tiếng Việt](https://sict.haui.edu.vn/dnn/web/haui/images/vn.png)](https://sict.haui.edu.vn/vn)
+  * [ ![Tiếng Anh](https://sict.haui.edu.vn/dnn/web/haui/images/en.png) ](https://sict.haui.edu.vn/en)
+
+
+## [THÔNG BÁO ](https://sict.haui.edu.vn/vn/thong-bao)
+[TRANG CHỦ](https://sict.haui.edu.vn/vn/) > [THÔNG BÁO](https://sict.haui.edu.vn/vn/thong-bao)
+Thông báo về việc mở, không mở các lớp học phần học kỳ phụ 2 năm học 2025 - 2026 
+  * [Thứ Ba, 16:09 23/06/2026](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+  * [300](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+
+
+Đại học Công nghiệp Hà Nội thông báo tới sinh viên đại học các khóa về danh sách các lớp học phần được mở và không mở trong học kỳ phụ 2 năm học 2025 - 2026. 
+Sinh viên cần chủ động theo dõi kết quả đăng ký học phần, kiểm tra danh sách lớp học phần được tổ chức trong học kỳ phụ và thực hiện đăng ký bổ sung (nếu có nhu cầu) theo đúng thời gian quy định. 
+Thời gian đăng ký bổ sung:  
+Từ 16h00 ngày 23/06/2026 đến 10h00 ngày 03/07/2026.
+Sinh viên lưu ý thực hiện các nội dung sau:
+  * Theo dõi danh sách các lớp học phần được mở, không mở và kết quả đăng ký học phần trên Hệ thống Đại học điện tử.
+  * Chủ động đăng ký bổ sung vào các lớp học phần đã được mở (trong trường hợp lớp còn chỉ tiêu).
+  * Trường hợp sinh viên có nhu cầu mở thêm lớp học phần, liên hệ với Cố vấn học tập/Giảng viên điều phối để được hướng dẫn thực hiện theo quy định.
+  * Tra cứu thời khóa biểu các lớp học phần học kỳ phụ và thực hiện đăng ký học tập trên Cổng thông tin sinh viên.
+  * Hoàn thành kinh phí đào tạo theo đúng quy định của Nhà trường.
+
+
+Lưu ý: Sau 10h00 ngày 03/07/2026, Hệ thống Đại học điện tử sẽ khóa chức năng đăng ký. Kết quả đăng ký học phần của sinh viên sau thời gian này sẽ được ghi nhận và không thực hiện điều chỉnh.
+Sinh viên xem thời khóa biểu các lớp mở và không mở trong học kỳ phụ 2 năm học 2025 - 2026 tại: <https://docs.google.com/.../1VlL4k69a.../edit>...
+Đề nghị sinh viên nghiêm túc thực hiện đúng thời gian và hướng dẫn để đảm bảo kế hoạch học tập cá nhân.
+  * Thứ Ba, 16:09 23/06/2026 
+
+
+Tags: [Học kỳ phụ 2](https://sict.haui.edu.vn/vn/tags?q=H%E1%BB%8Dc%20k%E1%BB%B3%20ph%E1%BB%A5%202&p=1) [ Năm học 2025 - 2026](https://sict.haui.edu.vn/vn/tags?q=N%C4%83m%20h%E1%BB%8Dc%202025%20-%202026&p=1) [ Đăng ký học phần](https://sict.haui.edu.vn/vn/tags?q=%C4%90%C4%83ng%20k%C3%BD%20h%E1%BB%8Dc%20ph%E1%BA%A7n&p=1) [ Lớp học phần](https://sict.haui.edu.vn/vn/tags?q=L%E1%BB%9Bp%20h%E1%BB%8Dc%20ph%E1%BA%A7n&p=1) [ Thời khóa biểu](https://sict.haui.edu.vn/vn/tags?q=Th%E1%BB%9Di%20kh%C3%B3a%20bi%E1%BB%83u&p=1) [ Sinh viên HaUI](https://sict.haui.edu.vn/vn/tags?q=Sinh%20vi%C3%AAn%20HaUI&p=1) [ Đại học Công nghiệp Hà Nội](https://sict.haui.edu.vn/vn/tags?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20C%C3%B4ng%20nghi%E1%BB%87p%20H%C3%A0%20N%E1%BB%99i&p=1) [ Cổng thông tin sinh viên](https://sict.haui.edu.vn/vn/tags?q=C%E1%BB%95ng%20th%C3%B4ng%20tin%20sinh%20vi%C3%AAn&p=1) [ Đào tạo tín chỉ](https://sict.haui.edu.vn/vn/tags?q=%C4%90%C3%A0o%20t%E1%BA%A1o%20t%C3%ADn%20ch%E1%BB%89&p=1)
+### Các bài đã đăng
+[ » Thông báo nộp hồ sơ xét học bổng Nguyễn Thanh Bình năm học 2025–2026 (18/09/2026) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-nop-ho-so-xet-hoc-bong-nguyen-thanh-binh-nam-hoc-2025-2026/71907)
+[ » AI Thực chiến 2026 – Gameshow AI trên sóng truyền hình quốc gia (17/09/2026) ](https://sict.haui.edu.vn/vn/thong-bao/ai-thuc-chien-2026-gameshow-ai-tren-song-truyen-hinh-quoc-gia/71908)
+[ » Khóa học “Kỹ thuật AI Agent trong quy trình sản xuất phần mềm” (16/09/2026) ](https://sict.haui.edu.vn/vn/thong-bao/khoa-hoc-ky-thuat-ai-agent-trong-quy-trinh-san-xuat-phan-mem/71906)
+[ » AI trong thiết kế đồ họa và Vibe Coding - Từ ý tưởng đến ứng dụng thực tế (15/09/2026) ](https://sict.haui.edu.vn/vn/thong-bao/ai-trong-thiet-ke-do-hoa-va-vibe-coding-tu-y-tuong-den-ung-dung-thuc-te/71904)
+[ » FPT Telecom tuyển dụng số lượng lớn nhân sự kỹ thuật viễn thông (14/09/2026) ](https://sict.haui.edu.vn/vn/thong-bao/fpt-telecom-tuyen-dung-so-luong-lon-nhan-su-ky-thuat-vien-thong/71903)
+[ » Thông báo về việc xét và công nhận tốt nghiệp đợt tháng 7 năm 2026 (22/06/2026) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xet-va-cong-nhan-tot-nghiep-dot-thang-7-nam-2026/71821)
+[ » Thông báo Về việc xuất trình giấy tờ tùy thân khi dự thi kết thúc học phần (19/06/2026) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xuat-trinh-giay-to-tuy-than-khi-du-thi-ket-thuc-hoc-phan/71819)
+[ » Chương trình đào tạo kỹ năng thực chiến cùng doanh nghiệp dành cho sinh viên SICT-HaUI (18/06/2026) ](https://sict.haui.edu.vn/vn/thong-bao/chuong-trinh-dao-tao-ky-nang-thuc-chien-cung-doanh-nghiep-danh-cho-sinh-vien-sict-haui/71808)
+[ » Chính thức công bố các đội thi xuất sắc bước vào vòng Chung kết Digital Era Creative Innovation Competition 2026 (DECIC 2026) (17/06/2026) ](https://sict.haui.edu.vn/vn/thong-bao/chinh-thuc-cong-bo-cac-doi-thi-xuat-sac-buoc-vao-vong-chung-ket-digital-era-creative-innovation-competition-2026-decic-2026/71805)
+[ » SẴN SÀNG CHO VÒNG BÁN KẾT – TOP 15 ĐỘI THI XUẤT SẮC NHẤT CHÍNH THỨC TRANH TÀI! (12/06/2026) ](https://sict.haui.edu.vn/vn/thong-bao/san-sang-cho-vong-ban-ket-top-15-doi-thi-xuat-sac-nhat-chinh-thuc-tranh-tai/71800)
+### Tin tiêu điểm
+[ ![Trường đại học Công nghiệp Hà Nội chính thức chuyển thành Đại học Công nghiệp Hà Nội](https://sict.haui.edu.vn/media/82/m82075.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/truong-dai-hoc-cong-nghiep-ha-noi-chinh-thuc-chuyen-thanh-dai-hoc-cong-nghiep-ha-noi/71526) [ Trường đại học Công nghiệp Hà Nội chính thức chuyển thành Đại học Công nghiệp Hà Nội ](https://sict.haui.edu.vn/vn/thong-bao/truong-dai-hoc-cong-nghiep-ha-noi-chinh-thuc-chuyen-thanh-dai-hoc-cong-nghiep-ha-noi/71526) Thứ Hai, 10:28 24/11/2025
+[ ![Bộ trưởng Bộ Công Thương gửi thư chúc mừng nhân ngày Nhà giáo Việt Nam 20/11](https://sict.haui.edu.vn/media/81/m81766.jpg) ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) [ Bộ trưởng Bộ Công Thương gửi thư chúc mừng nhân ngày Nhà giáo Việt Nam 20/11 ](https://sict.haui.edu.vn/vn/tin-tuc/bo-truong-bo-cong-thuong-gui-thu-chuc-mung-nhan-ngay-nha-giao-viet-nam-20-11/71482) Thứ Ba, 16:23 11/11/2025
+[ ![Sinh viên Khóa 19 Khoa Công nghệ thông tin đạt Học bổng HaUI 100% toàn khóa học.](https://sict.haui.edu.vn/media/79/m79003.jpg) ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) [ Sinh viên Khóa 19 Khoa Công nghệ thông tin đạt Học bổng HaUI 100% toàn khóa học. ](https://sict.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060) Thứ Sáu, 11:07 20/09/2024
+[ ![Đội bóng khoa Công nghệ thông tin cùng những trận cầu đáng nhớ](https://sict.haui.edu.vn/media/77/m77248.jpg) ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) [ Đội bóng khoa Công nghệ thông tin cùng những trận cầu đáng nhớ ](https://sict.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644) Thứ Bảy, 10:00 23/07/2022
+[ ](https://sict.haui.edu.vn/vn/tin-tuc/dai-hoi-dai-bieu-lien-chi-doan-khoa-cong-nghe-thong-tin-lan-thu-x-nhiem-ky-2022-2024/68570) [ Đại hội đại biểu Liên chi Đoàn khoa Công nghệ thông tin lần thứ X, nhiệm kỳ 2022 - 2024 ](https://sict.haui.edu.vn/vn/tin-tuc/dai-hoi-dai-bieu-lien-chi-doan-khoa-cong-nghe-thong-tin-lan-thu-x-nhiem-ky-2022-2024/68570) Thứ Hai, 15:00 18/04/2022
+### Các bài đã đăng
+[ ![Thông báo nộp hồ sơ xét học bổng Nguyễn Thanh Bình năm học 2025–2026](https://sict.haui.edu.vn/media/84/m84601.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-nop-ho-so-xet-hoc-bong-nguyen-thanh-binh-nam-hoc-2025-2026/71907) [ Thông báo nộp hồ sơ xét học bổng Nguyễn Thanh Bình năm học 2025–2026 ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-nop-ho-so-xet-hoc-bong-nguyen-thanh-binh-nam-hoc-2025-2026/71907) Thứ Sáu, 08:42 18/09/2026
+[ ![AI Thực chiến 2026 – Gameshow AI trên sóng truyền hình quốc gia](https://sict.haui.edu.vn/media/84/m84604.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/ai-thuc-chien-2026-gameshow-ai-tren-song-truyen-hinh-quoc-gia/71908) [ AI Thực chiến 2026 – Gameshow AI trên sóng truyền hình quốc gia ](https://sict.haui.edu.vn/vn/thong-bao/ai-thuc-chien-2026-gameshow-ai-tren-song-truyen-hinh-quoc-gia/71908) Thứ Năm, 08:50 17/09/2026
+[ ![Khóa học “Kỹ thuật AI Agent trong quy trình sản xuất phần mềm”](https://sict.haui.edu.vn/media/84/m84598.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/khoa-hoc-ky-thuat-ai-agent-trong-quy-trinh-san-xuat-phan-mem/71906) [ Khóa học “Kỹ thuật AI Agent trong quy trình sản xuất phần mềm” ](https://sict.haui.edu.vn/vn/thong-bao/khoa-hoc-ky-thuat-ai-agent-trong-quy-trinh-san-xuat-phan-mem/71906) Thứ Tư, 16:37 16/09/2026
+[ ![AI trong thiết kế đồ họa và Vibe Coding - Từ ý tưởng đến ứng dụng thực tế](https://sict.haui.edu.vn/media/84/m84587.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/ai-trong-thiet-ke-do-hoa-va-vibe-coding-tu-y-tuong-den-ung-dung-thuc-te/71904) [ AI trong thiết kế đồ họa và Vibe Coding - Từ ý tưởng đến ứng dụng thực tế ](https://sict.haui.edu.vn/vn/thong-bao/ai-trong-thiet-ke-do-hoa-va-vibe-coding-tu-y-tuong-den-ung-dung-thuc-te/71904) Thứ Ba, 16:22 15/09/2026
+[ ![FPT Telecom tuyển dụng số lượng lớn nhân sự kỹ thuật viễn thông](https://sict.haui.edu.vn/media/84/m84585.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/fpt-telecom-tuyen-dung-so-luong-lon-nhan-su-ky-thuat-vien-thong/71903) [ FPT Telecom tuyển dụng số lượng lớn nhân sự kỹ thuật viễn thông ](https://sict.haui.edu.vn/vn/thong-bao/fpt-telecom-tuyen-dung-so-luong-lon-nhan-su-ky-thuat-vien-thong/71903) Thứ Hai, 16:20 14/09/2026
+[ ![Thông báo về việc xét và công nhận tốt nghiệp đợt tháng 7 năm 2026](https://sict.haui.edu.vn/media/84/m84059.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xet-va-cong-nhan-tot-nghiep-dot-thang-7-nam-2026/71821) [ Thông báo về việc xét và công nhận tốt nghiệp đợt tháng 7 năm 2026 ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xet-va-cong-nhan-tot-nghiep-dot-thang-7-nam-2026/71821) Thứ Hai, 16:07 22/06/2026
+[ ![Thông báo Về việc xuất trình giấy tờ tùy thân khi dự thi kết thúc học phần](https://sict.haui.edu.vn/media/83/m83942.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xuat-trinh-giay-to-tuy-than-khi-du-thi-ket-thuc-hoc-phan/71819) [ Thông báo Về việc xuất trình giấy tờ tùy thân khi dự thi kết thúc học phần ](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-xuat-trinh-giay-to-tuy-than-khi-du-thi-ket-thuc-hoc-phan/71819) Thứ Sáu, 16:05 19/06/2026
+[ ![Chương trình đào tạo kỹ năng thực chiến cùng doanh nghiệp dành cho sinh viên SICT-HaUI](https://sict.haui.edu.vn/media/83/m83920.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/chuong-trinh-dao-tao-ky-nang-thuc-chien-cung-doanh-nghiep-danh-cho-sinh-vien-sict-haui/71808) [ Chương trình đào tạo kỹ năng thực chiến cùng doanh nghiệp dành cho sinh viên SICT-HaUI ](https://sict.haui.edu.vn/vn/thong-bao/chuong-trinh-dao-tao-ky-nang-thuc-chien-cung-doanh-nghiep-danh-cho-sinh-vien-sict-haui/71808) Thứ Năm, 15:14 18/06/2026
+[ ![Chính thức công bố các đội thi xuất sắc bước vào vòng Chung kết Digital Era Creative Innovation Competition 2026 \(DECIC 2026\)](https://sict.haui.edu.vn/media/83/m83898.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/chinh-thuc-cong-bo-cac-doi-thi-xuat-sac-buoc-vao-vong-chung-ket-digital-era-creative-innovation-competition-2026-decic-2026/71805) [ Chính thức công bố các đội thi xuất sắc bước vào vòng Chung kết Digital Era Creative Innovation Competition 2026 (DECIC 2026) ](https://sict.haui.edu.vn/vn/thong-bao/chinh-thuc-cong-bo-cac-doi-thi-xuat-sac-buoc-vao-vong-chung-ket-digital-era-creative-innovation-competition-2026-decic-2026/71805) Thứ Tư, 15:34 17/06/2026
+[ ![SẴN SÀNG CHO VÒNG BÁN KẾT – TOP 15 ĐỘI THI XUẤT SẮC NHẤT CHÍNH THỨC TRANH TÀI!](https://sict.haui.edu.vn/media/83/m83857.jpg) ](https://sict.haui.edu.vn/vn/thong-bao/san-sang-cho-vong-ban-ket-top-15-doi-thi-xuat-sac-nhat-chinh-thuc-tranh-tai/71800) [ SẴN SÀNG CHO VÒNG BÁN KẾT – TOP 15 ĐỘI THI XUẤT SẮC NHẤT CHÍNH THỨC TRANH TÀI! ](https://sict.haui.edu.vn/vn/thong-bao/san-sang-cho-vong-ban-ket-top-15-doi-thi-xuat-sac-nhat-chinh-thuc-tranh-tai/71800) Thứ Sáu, 08:04 12/06/2026
+### Tags
+  * [Học kỳ phụ 2](https://sict.haui.edu.vn/vn/tags?q=H%E1%BB%8Dc%20k%E1%BB%B3%20ph%E1%BB%A5%202&p=1)
+  * [Năm học 2025 - 2026](https://sict.haui.edu.vn/vn/tags?q=N%C4%83m%20h%E1%BB%8Dc%202025%20-%202026&p=1)
+  * [Đăng ký học phần](https://sict.haui.edu.vn/vn/tags?q=%C4%90%C4%83ng%20k%C3%BD%20h%E1%BB%8Dc%20ph%E1%BA%A7n&p=1)
+  * [Lớp học phần](https://sict.haui.edu.vn/vn/tags?q=L%E1%BB%9Bp%20h%E1%BB%8Dc%20ph%E1%BA%A7n&p=1)
+  * [Thời khóa biểu](https://sict.haui.edu.vn/vn/tags?q=Th%E1%BB%9Di%20kh%C3%B3a%20bi%E1%BB%83u&p=1)
+  * [Sinh viên HaUI](https://sict.haui.edu.vn/vn/tags?q=Sinh%20vi%C3%AAn%20HaUI&p=1)
+  * [Đại học Công nghiệp Hà Nội](https://sict.haui.edu.vn/vn/tags?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20C%C3%B4ng%20nghi%E1%BB%87p%20H%C3%A0%20N%E1%BB%99i&p=1)
+  * [Cổng thông tin sinh viên](https://sict.haui.edu.vn/vn/tags?q=C%E1%BB%95ng%20th%C3%B4ng%20tin%20sinh%20vi%C3%AAn&p=1)
+  * [Đào tạo tín chỉ](https://sict.haui.edu.vn/vn/tags?q=%C4%90%C3%A0o%20t%E1%BA%A1o%20t%C3%ADn%20ch%E1%BB%89&p=1)
+
+
+### Video giới thiệu 
+[ ](https://sict.haui.edu.vn/vn)
+#### THÔNG TIN LIÊN HỆ
+Tầng 12, Nhà A1, số 298 đường Cầu Diễn, quận Bắc Từ Liêm, Hà Nội 
+Email: sict@haui.edu.vn 
+#### THÔNG TIN
+  * [ Liên hệ](https://sict.haui.edu.vn/vn/html/lien-he)
+  * [ Sơ đồ trang](https://sict.haui.edu.vn/vn/m/sitemap/module)
+
+
+#### MẠNG XÃ HỘI
+  * [![Facebook](https://sict.haui.edu.vn/dnn/web/haui/assets/images/svg/facebook.svg)](https://www.facebook.com/SICT.HaUI)
+  * [![Youtube](https://sict.haui.edu.vn/dnn/web/haui/assets/images/svg/youtube.svg)](https://youtube.com/@sict_haui)
+  * [![Messenger](https://sict.haui.edu.vn/dnn/web/haui/assets/images/svg/messenger.svg)](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+  * [![Tiktok](https://sict.haui.edu.vn/dnn/web/haui/assets/images/svg/tiktok.svg)](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822)
+
+
+#### BẢN ĐỒ CHỈ DẪN
+Copyright © 2025 [School of Information and Communications Technology](https://www.haui.edu.vn "School of Information and Communications Technology")
+[](https://sict.haui.edu.vn/vn/thong-bao/thong-bao-ve-viec-mo-khong-mo-cac-lop-hoc-phan-hoc-ky-phu-2-nam-hoc-2025-2026/71822#top)
