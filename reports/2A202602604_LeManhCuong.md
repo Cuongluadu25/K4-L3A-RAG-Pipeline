@@ -4,7 +4,7 @@
 
 - Họ và tên: Lê Mạnh Cường
 - Mã học viên: 2A202602604
-- Nhóm: K4-L3A
+- Nhóm: AIZone67
 - Repository/branch: https://github.com/Cuongluadu25/K4-L3A-RAG-Pipeline - 'main'
 
 ## Phần việc đã thực hiện
