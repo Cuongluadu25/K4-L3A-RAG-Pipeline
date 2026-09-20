@@ -16,7 +16,7 @@
 | 2 | Trần Quốc Khánh | `<điền mã HV>` | Index & Dense Retrieval | Task 4, 5 | `reports/<mã HV>-TranQuocKhanh.md` |
 | 3 | Nguyễn Việt Hùng | `<điền mã HV>` | Lexical & Fusion | Task 6, 7 | `reports/<mã HV>-NguyenVietHung.md` |
 | 4 | Nguyễn Trọng Minh | `<điền mã HV>` | Pipeline & Fallback | Task 8, 9 | `reports/<mã HV>-NguyenTrongMinh.md` |
-| 5 | Lê Đức Tùng | `<điền mã HV>` | Generation & UI | Task 10, `app.py` | `reports/<mã HV>-LeDucTung.md` |
+| 5 | Lê Đức Tùng | 2A202603005 | Generation & UI | Task 10, `app.py` | `reports/<mã HV>-LeDucTung.md` |
 
 **Quy ước:** mã học viên điền vào cả cột trên và tên file báo cáo, theo format `reports/<mã HV>-<TenNgan.md>` như `group_project/ịndividual/INDIVIDUAL_REPORT.md` quy định.
 
