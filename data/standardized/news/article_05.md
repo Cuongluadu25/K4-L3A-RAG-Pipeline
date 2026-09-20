@@ -1,0 +1,99 @@
+# Hỗ trợ tài chính và học bổng dành cho sinh viên HaUI
+
+**Source file:** data/landing/news/article_05.json
+
+**Source URL:** https://www.haui.edu.vn/vn/hoc-bong-hoc-phi/ho-tro-tai-chinh-va-hoc-bong-danh-cho-sinh-vien-haui/68191
+
+**Crawled:** 2026-09-20T16:56:36+07:00
+
+**Doc type:** news
+
+**Extraction:** target:.irs-blog-single-col/fit_markdown
+
+---
+
+Hỗ trợ tài chính và học bổng dành cho sinh viên HaUI
+Trong quá trình học tập tại Đại học Công nghiệp Hà Nội, sinh viên có cơ hội tiếp cận nhiều chính sách hỗ trợ tài chính và chương trình học bổng, từ miễn, giảm học phí, hỗ trợ học phí, hỗ trợ vay vốn đến học bổng khuyến khích học tập và học bổng từ các doanh nghiệp, tổ chức, đối tác. Các chính sách góp phần hỗ trợ sinh viên giảm bớt áp lực tài chính, yên tâm học tập, rèn luyện và phát triển trong suốt hành trình tại HaUI.
+**I. Hỗ trợ tài chính**
+**1. Chính sách miễn giảm học phí**
+Căn cứ Nghị định số 238/2025/NĐ-CP ngày 03/9/2025 của Chính phủ quy định về chính sách học phí, miễn, giảm, hỗ trợ học phí, hỗ trợ chi phí học tập và giá dịch vụ trong lĩnh vực giáo dục.
+**Đối tượng và mức hỗ trợ:**
+• Miễn 100% học phí: Sinh viên là người có công với cách mạng hoặc là con đẻ/con nuôi của người có công với cách mạng; sinh viên mồ côi cả cha và mẹ; sinh viên là người dân tộc thiểu số thuộc hộ nghèo/cận nghèo theo quy định; sinh viên là người dân tộc thiểu số rất ít người thuộc vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn.
+• Giảm 70% học phí: Sinh viên hệ Cao đẳng học một số ngành nghề nặng nhọc, độc hại, nguy hiểm hoặc sinh viên người dân tộc thiểu số có nơi thường trú tại thôn/bản đặc biệt khó khăn, xã khu vực III vùng đồng bào dân tộc thiểu số và miền núi, xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo theo quy định.
+• Giảm 50% học phí: Sinh viên có cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên.
+Mức miễn, giảm được tính theo học phí các học phần của lần học thứ nhất trong chương trình đào tạo chuẩn (không bao gồm các môn học Kỹ năng sử dụng công nghệ thông tin, Ngoại ngữ và các môn học khác (nếu có) theo yêu cầu của chương trình đào tạo).
+**2. Chính sách hỗ trợ chi phí học tập**
+Căn cứ Quyết định số 66/2013/QĐ-TTg ngày 11/11/2013 của Chính phủ quy định chính sách hỗ trợ chi phí học tập đối với sinh viên là người dân tộc thiểu số học tại các cơ sở giáo dục đại học
+•60% mức lương cơ sở. Thời gian cấp 10 tháng/ năm
+• Sinh viên học hệ đại học chính quy là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trường hợp sinh viên ở với ông bà) thuộc hộ nghèo hoặc hộ cận nghèo theo quy định của Nhà nước.
+**3. Chính sách hỗ trợ học tập**
+Căn cứ Nghị định số 57/2017/NĐ-CP ngày 09/05/2017 của Thủ tướng Chính phủ quy định chính sách hỗ trợ học tập đối với trẻ mẫu giáo, học sinh sinh viên là người dân tộc thiểu số rất ít người.
+• 100% mức lương cơ sở. Thời gian cấp 12 tháng/ năm
+• Sinh viên đang học Đại học chính quy, Cao đẳng là người dân tộc thiểu số rất ít người (Cống, Mảng, Pu Péo, Si La, Cờ Lao, Bố Y, La Ha, Ngái, Chứt, Ơ Đu, Brâu, Rơ Măm, Lô Lô, Lự, Pà Thẻn, La Hủ).
+**4. Chính sách nội trú**
+Căn cứ Quyết định số 53/2015/QĐ-TTg ngày 20/10/2015 của Thủ tướng Chính phủ quy định về chính sách nội trú đối với học sinh, sinh viên học cao đẳng, trung cấp;
+**Đối tượng và mức hỗ trợ:**
+• Sinh viên dân tộc thiểu số thuộc hộ nghèo/cận nghèo; sinh viên dân tộc thiểu số bị khuyết tật: Hỗ trợ 100% mức lương cơ sở, 12 tháng/năm; hỗ trợ 1 triệu đồng/khóa mua đồ dùng cá nhân; hỗ trợ 150.000 đồng đối với sinh viên ở lại trường dịp Tết Nguyên đán và 200.000 đồng/năm tiền đi lại từ nơi học về gia đình và ngược lại.
+• Sinh viên tốt nghiệp trường phổ thông dân tộc nội trú; sinh viên dân tộc Kinh bị khuyết tật, có nơi thường trú tại vùng đặc biệt khó khăn, vùng dân tộc thiểu số, biên giới, hải đảo: Hỗ trợ 80% mức lương cơ sở, 12 tháng/năm; hỗ trợ một lần 1 triệu đồng/khóa mua đồ dùng cá nhân; hỗ trợ 150.000 đồng đối với sinh viên ở lại trường dịp Tết Nguyên đán; Hỗ trợ tiền đi lại từ nơi học về gia đình và ngược lại 300.000 đồng đối với sinh viên có nơi thường trú tại vùng đặc biệt khó khăn, 200.000 đồng/năm đối với Sinh viên còn lại
+• Sinh viên dân tộc Kinh có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trường hợp sinh viên ở với ông bà) thuộc hộ nghèo hoặc hộ cận nghèo theo quy định của Nhà nước có nơi thường trú tại vùng có điều kiện kinh tế xã hội đặc biệt khó khăn, vùng dân tộc thiểu số, biên giới, hải đảo: Hỗ trợ 60% mức lương cơ sở, 12 tháng/năm; hỗ trợ 1 triệu đồng/khóa mua đồ dùng cá nhân; hỗ trợ 150.000 đồng đối với sinh viên ở lại trường dịp Tết Nguyên đán; Hỗ trợ tiền đi lại từ nơi học về gia đình và ngược lại 300.000 đồng đối với sinh viên có nơi thường trú tại vùng đặc biệt khó khăn, 200.000 đồng/năm đối với Sinh viên còn lại.
+Căn Cứ Quyết định số, 725/QĐ-ĐHCN ngày 03/6/2024 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội và căn cứ Quyết định số 356/QĐ-ĐHCN ngày 14/3/2026 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội ban hành về thông tin tuyển sinh đại học năm 2026.
+Sinh viên hệ đào tạo đại học chính quy
+- Chương trình đào tạo chuẩn: Học bổng 100% học phí toàn khóa học; Học bổng 100% học phí năm thứ nhất, Học bổng 100% học phí học kỳ 1 năm nhất.
+- Chương trình đào tạo bằng Tiếng Anh: Học bổng 100% học phí toàn khóa học; Học bổng 50% học phí toàn khóa, Học bổng 100% học phí năm nhất.
+• Điều kiện duy trì học bổng: Kết thúc mỗi học kỳ chính, sinh viên phải đạt đồng thời các điều kiện sau:
+- Điểm TBC học kỳ đạt ≥ 2.5 và rèn luyện loại tốt trở lên (VD: Xét học bổng HaUI học kỳ 1 năm học 2026-2027, thì căn cứ từ kết quả điểm TBC và điểm rèn luyện của học kỳ 2 năm học 2025-2026).
+- Trong kỳ xét học bổng có tổng số tín chỉ xét học bổng > 15 tín chỉ (trừ trường hợp do kế hoạch của Đại học bố trí không đủ 15 tín chỉ). Đối với học kỳ cuối theo thời gian thiết kế khóa học, sinh viên phải có tổng số tín chỉ xét học bổng > 07 tín chỉ.
+**2. Học bổng khuyến khích học tập**
+Căn Cứ Quyết định số 725/QĐ-ĐHCN ngày 03/6/2024 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội.
+Sinh viên hệ đại học và cao đẳng chính quy.
+• Học bổng bán phần (xếp loại học bổng loại Giỏi, Khá); Học bổng Toàn phần (xếp loại học bổng Xuất sắc)
+ |
+|  |
+|  (từ 90 đến 100 điểm)  |  (từ 80 đến 89 điểm)  |
+|  - Đào tạo tín chỉ: từ 3.60 đến 4.0 - Đào tạo niên chế: từ 9.00 đến 10.0  |
+|  - Đào tạo tín chỉ: từ 3.20 đến 3.59 - Đào tạo niên chế: từ 8.00 đến 8.99  |
+|  - Đào tạo tín chỉ: từ 2.50 đến 3.19 - Đào tạo niên chế: từ 7.00 đến 7.99  |
+**3. Học bổng cho sinh viên có định hướng học tiếp trình độ đào tạo thạc sĩ**
+Căn Cứ Quyết định số 725/QĐ-ĐHCN ngày 03/6/2024 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội.
+• Sinh viên đang học chương trình đào tạo đại học năm thứ 4 đăng ký học trước các học phần trình độ đào tạo Thạc sĩ.
+• 30% học phí các học phần đăng ký học trước, theo đơn giá học phí trình độ đào tạo Thạc sĩ, tối đa không quá 15 tín chỉ.
+**4. Học bổng dành cho sinh viên các ngành kỹ thuật then chốt và công nghệ chiến lược**
+Căn cứ Nghị định 179/2026/NĐ-CP ngày 20/5/2026 của Thủ tướng Chính phủ Quy định chính sách học bổng cho người học các ngành khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược.
+Sinh viên trúng tuyển hệ Đại học chính quy đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia hoặc quốc tế dành cho học sinh trung học phổ thông theo quy định của Bộ Giáo dục và Đào tạo; thời gian đạt giải không quá 03 năm tính tới thời điểm xét duyệt hoặc Tổng điểm môn Toán và hai trong các môn Vật lí, Hoá học, Sinh học và Tiếng Anh của kỳ thi tốt nghiệp trung học phổ thông từ 22,50 trở lên theo thang điểm 30 không bao gồm điểm ưu tiên, điểm cộng và trúng tuyển thuộc nhóm 30% thí sinh đạt điểm trúng tuyển cao nhất cùng nhóm ngành đào tạo trên phạm vi toàn quốc trong đợt xét tuyển chung của năm tuyển sinh các ngành/chương trình đào tạo sau
+| **Mã ngành/ chương trình đào tạo**  |
+| --- |
+| Công nghệ kỹ thuật máy tính  |
+| Công nghệ đa phương tiện  |
+| Kỹ thuật Cơ khí động lực  |
+| Kỹ thuật ô tô và năng lượng mới  |
+| Kỹ thuật hệ thống công nghiệp  |
+| Mạng máy tính và truyền thông dữ liệu  |
+- Chương trình đào tạo ngành vi mạch bán dẫn: 4.200.000 đồng/tháng
+- Chương trình đào tạo các ngành kỹ thuật then chốt và công nghệ chiến lược: 3.700.000 đồng/tháng
+10 tháng/năm
+• Không bị kỷ luật từ mức khiển trách trở lên; Đạt kết quả học tập trung bình tích lũy của các năm học liền trước ≥ 2.5; Tích lũy tối thiểu 24 tín chỉ sau năm học đầu tiên, tối thiểu 28 tín chỉ trong một năm học kể từ năm học thứ hai.
+**5. Học bổng Nguyễn Thanh Bình**
+Căn Cứ Quyết định số 279/QĐ-ĐHCN ngày 14/3/2023 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội.
+• Sinh viên có hoàn cảnh khó khăn, thành tích học tập hoặc nghiên cứu khoa học nổi bật, gồm:
+- Sinh viên mắc bệnh hiểm nghèo, bị khuyết tật;
+- Sinh viên mồ côi bố hoặc mẹ, sinh viên không có bố hoặc mẹ;
+- Sinh viên có bố/mẹ mắc bệnh hiểm nghèo hoặc không có khả năng lao động;
+- Sinh viên dân tộc Kinh thuộc hộ nghèo, cận nghèo;
+- Sinh viên có công trình nghiên cứu khoa học đạt giải Nhất cấp trường trở lên trong năm xét học bổng;
+- Sinh viên có kết quả học tập trung bình năm học từ 3,6/4,0 (đào tạo tín chỉ) hoặc từ 9,0 (đào tạo niên chế), xếp loại rèn luyện Tốt trở lên;
+- Các trường hợp có hoàn cảnh đặc biệt khó khăn khác được xem xét theo quy định.
+• Mức học bổng cơ sở được xác định hằng năm căn cứ nguồn tiền lãi của Quỹ và do Giám đốc Đại học quyết định.
+- 100% mức học bổng: Sinh viên dân tộc kinh thuộc hộ nghèo/cận nghèo; có thành tích nghiên cứu khoa học hoặc kết quả học tập, rèn luyện xuất sắc.
+- 120% mức học bổng: Sinh viên khuyết tật; mồ côi bố hoặc mẹ; hoặc không có bố/mẹ; có bố/mẹ mắc bệnh hiểm nghèo hoặc không có khả năng lao động.
+- 150% mức học bổng: Sinh viên mắc bệnh hiểm nghèo.
+**6. Học bổng tài trợ**
+Căn Cứ Quyết định số 725/QĐ-ĐHCN ngày 03/6/2024 của Hiệu trưởng Trường Đại học Công nghiệp Hà Nội.
+• Sinh viên đáp ứng tiêu chí của từng chương trình học bổng, gồm:
+- Sinh viên có kết quả học tập, rèn luyện tốt, có thành tích trong nghiên cứu khoa học, đổi mới sáng tạo;
+- Sinh viên có hoàn cảnh kinh tế khó khăn;
+- Các đối tượng khác theo yêu cầu của nhà tài trợ.
+• Theo quy định của từng chương trình và nhà tài trợ. Trường hợp không có quy định cụ thể, mức học bổng và tiêu chí xét được xác định theo quy định của Đại học Công nghiệp Hà Nội hoặc đơn vị đào tạo.
+Để được tư vấn chi tiết về các chương trình học bổng và chính sách hỗ trợ, vui lòng liên hệ:
+**Cô Nguyễn Thị Ngọc Anh - Ban Hỗ trợ người học**
+Địa chỉ: Tầng 1, Nhà A8, Phòng Công tác HSSV, Cơ sở 1, Đại học Công nghiệp Hà Nội
+Tags: Đại học Công nghiệp Hà Nội

@@ -55,3 +55,6 @@ pageindex_pdfs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Vector store sinh ra bởi task4 (index lại được, không commit)
+chroma_db/

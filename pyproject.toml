@@ -33,6 +33,8 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0.0"]
+# OCR fallback cho PDF scan trong task3 (EasyOCR, chạy CPU, hỗ trợ tiếng Việt)
+ocr = ["easyocr>=1.7.0"]
 
 [tool.setuptools]
 packages = ["src"]
