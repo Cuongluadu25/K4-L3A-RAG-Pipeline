@@ -34,11 +34,11 @@ CHUNKING_METHOD = "recursive"
 # Mặc định là model multilingual nhỏ (384 dim) cho phù hợp máy CPU.
 EMBEDDING_PROVIDER = os.getenv("EMBEDDING_PROVIDER", "sentence_transformers").strip().lower()
 EMBEDDING_MODEL = os.getenv(
-    "EMBEDDING_MODEL", "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    "EMBEDDING_MODEL", os.getenv("EMBEDDING_MODEL", "jina-embeddings-v5-text-nano-retrieval")
 ).strip()
 
 # Dimension của EMBEDDING_MODEL. Đổi model thì phải đổi cả hằng số này và .env.
-EMBEDDING_DIM = 384
+EMBEDDING_DIM = 512
 
 COLLECTION_NAME = "rag_documents"
 
@@ -68,7 +68,10 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
     if EMBEDDING_PROVIDER == "openai":
         from openai import OpenAI
 
-        client = OpenAI()
+        client = OpenAI(
+            api_key=os.getenv("OPENAI_API_KEY"),
+            base_url=os.getenv("OPENAI_API_BASE_URL", None),
+        )
         response = client.embeddings.create(model=EMBEDDING_MODEL, input=texts)
         return [item.embedding for item in response.data]
 

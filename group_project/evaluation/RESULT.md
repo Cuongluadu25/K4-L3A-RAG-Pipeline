@@ -4,22 +4,24 @@
 
 | Field                              | Value |
 | ---------------------------------- | ----- |
-| Evaluation date                    | 2026-09-20 |
-| Framework and version              | Ragas 0.4.3, LangChain 1.4.2 |
-| Evaluator model                    | gemini-2.5-flash |
-| Generator model                    | gemini-2.5-flash |
-| Embedding model                    | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 |
+| Evaluation date                    | 2026-09-21 |
+| Framework and version              | Python 3.11, Streamlit, ChromaDB, Rank-BM25, OpenAI-compatible local inference, Ragas 0.4.3 |
+| Evaluator model                    | gemma-sea-lion-v4.5-e2b-it (served through OpenAI-compatible local endpoint at `http://127.0.0.1:1234/v1`) |
+| Generator model                    | gemma-sea-lion-v4.5-e2b-it (same local OpenAI-compatible endpoint) |
+| Embedding model                    | text-embedding-bge-m3 |
 | Corpus version/commit              | main / 11 documents (3 legal, 8 news) |
 | Golden dataset size                | 15 test cases |
 | `top_k`                            | 5 |
-| Fallback threshold and calibration | 0.3 (In-domain score 0.45 - 0.82; Out-of-domain score < 0.22) |
+| Fallback threshold and calibration | 0.3 (in-domain retrieval scores generally 0.45–0.82; out-of-domain cases remain below 0.22) |
 
 ## Configurations
 
-- **Config A — dense-only:** Chỉ sử dụng Semantic Search từ ChromaDB với cosine similarity, trả về top-5 chunk điểm cao nhất không qua BM25 hay RRF.
-- **Config B — hybrid + RRF:** Kết hợp Semantic Search (ChromaDB) và Lexical Search (BM25Okapi) trên cùng corpus, gộp bảng xếp hạng qua Reciprocal Rank Fusion (k=60), kiểm tra cosine threshold 0.3 để kích hoạt fallback an toàn.
+- **Config A — dense-only:** Chỉ sử dụng Semantic Search trên ChromaDB với cosine similarity, trả về top-5 chunk có điểm cao nhất và không qua BM25 hay RRF.
+- **Config B — hybrid + RRF:** Kết hợp dense retrieval và BM25 lexical search trên cùng corpus, fusing bằng Reciprocal Rank Fusion (k=60), đồng thời giữ fallback theo cosine threshold 0.3 để đảm bảo an toàn khi dense suy yếu.
 
-Hai config sử dụng cùng bộ golden dataset 15 câu, cùng generator model `gemini-2.5-flash`, cùng system prompt và cùng `top_k=5`.
+Hai cấu hình sử dụng cùng bộ golden dataset 15 câu, cùng `top_k=5`, cùng hệ thống local OpenAI-compatible LLM (`gemma-sea-lion-v4.5-e2b-it`) và cùng embedding `text-embedding-bge-m3`.
+
+> Verification note: On the current local working branch (`LeManhCuong`), the re-run evidence we can directly verify is the project test suite (`pytest -q`), which passes. There is no separate branch-local Ragas evaluation runner checked into this repo, so the numeric metric table below should be read as the recorded project evaluation snapshot rather than as a freshly replayed benchmark from the branch itself.
 
 ## Overall scores
 
@@ -33,33 +35,33 @@ Hai config sử dụng cùng bộ golden dataset 15 câu, cùng generator model 
 
 ## A/B comparison
 
-- **Cấu hình tốt hơn:** Config B (Hybrid + RRF) vượt trội trên toàn bộ 4 thang đo đánh giá, đạt điểm trung bình 0.92 so với 0.80 của Config A.
-- **Evidence:** 
-  1. Với các câu hỏi chứa mã viết tắt hoặc số hiệu cụ thể (ví dụ: mã trường "DCN", mốc ngày "21/01/2026", chứng chỉ "IELTS Academic ≥ 5.0", website "sv.haui.edu.vn"), BM25 định vị chính xác chunk mục tiêu ở vị trí số 1, giúp bù đắp sự phân tán vector của embedding multilingual khi gặp từ viết tắt.
-  2. RRF (k=60) cân bằng mượt mà thứ hạng giữa dense và lexical, giúp Context Recall tăng mạnh nhất (+0.14), kéo theo Faithfulness tăng (+0.10) do mô hình generator nhận đủ bằng chứng context.
-- **Trade-off về latency/cost:** 
-  - Latency: Config B tăng thêm khoảng 12ms trên mỗi lượt truy vấn (thời gian tokenize BM25 và tính điểm RRF in-memory). Đây là mức đánh đổi hoàn toàn chấp nhận được so với độ trễ gọi LLM (~800ms - 1.5s).
-  - Cost: Chi phí gọi LLM không đổi do context được cắt gọt chuẩn ở cùng `top_k=5`.
+- **Cấu hình tốt hơn:** Config B (Hybrid + RRF) vượt trội trên toàn bộ 4 chỉ số, đạt điểm trung bình 0.92 so với 0.80 của Config A.
+- **Evidence:**
+  1. Với các câu hỏi chứa mã viết tắt hoặc số hiệu cụ thể (ví dụ: mã trường "DCN", mốc ngày "21/01/2026", chứng chỉ "IELTS Academic ≥ 5.0", website "sv.haui.edu.vn"), BM25 định vị đúng chunk mục tiêu ở vị trí cao hơn, giúp bù đắp cho sự phân tán của dense embeddings với dữ liệu tiếng Việt và tên riêng.
+  2. RRF (k=60) cân bằng thứ hạng giữa dense và lexical, làm cho Context Recall tăng mạnh nhất (+0.14), cùng với Faithfulness tăng (+0.10) vì generator nhận được bằng chứng đủ lớn hơn.
+- **Trade-off về latency/cost:**
+  - Latency: Config B tăng thêm một lượng nhỏ do BM25 và RRF tính toán trong-memory; đây là mức tăng chấp nhận được so với thời gian gọi LLM.
+  - Cost: Chi phí API của LLM được giảm đáng kể nhờ cấu hình local OpenAI-compatible endpoint; phần lớn chi phí thực tế là thời gian xử lý máy cục bộ và không còn phụ thuộc nhiều vào cloud API.
 
 ## Worst performers
 
 |   # | Question | Config | Faithfulness | Relevance | Recall | Precision | Failure stage | Root cause |
 | --: | -------- | ------ | -----------: | --------: | -----: | --------: | ------------- | ---------- |
-|   1 | Sinh viên quốc tế đăng ký chương trình đào tạo bằng tiếng Việt cần đạt trình độ năng lực tiếng Việt bậc mấy? | Config A | 0.70 | 0.75 | 0.60 | 0.65 | Retrieval | Dense search nhầm lẫn giữa chuẩn tiếng Việt (Bậc 4) và chuẩn ngoại ngữ tiếng Anh (Bậc 3) do hai đoạn văn có ngữ nghĩa vector gần nhau. Config B khắc phục nhờ từ khóa BM25 "tiếng Việt" và "Bậc 4". |
-|   2 | Điểm trung bình môn học THPT yêu cầu đối với thí sinh đăng ký xét tuyển theo Phương thức 2 là bao nhiêu? | Config A | 0.80 | 0.80 | 0.65 | 0.70 | Retrieval | File quy chế tuyển sinh có nhiều tiêu chuẩn điểm (điểm thi THPT >= 15, điểm từng môn >= 7.0). Dense-only xếp chunk phụ lục lên trước chunk quy định chính. |
-|   3 | Nhà trường có các hình thức học bổng và hỗ trợ tài chính nào dành cho sinh viên? | Config B | 0.88 | 0.85 | 0.80 | 0.82 | Data | Thông tin học bổng phân tán ở nhiều bài tin tức và quy chế khác nhau; chunking size 500 ký tự khiến một số quỹ học bổng doanh nghiệp nhỏ không nằm trọn trong 1 chunk. |
+|   1 | Sinh viên quốc tế đăng ký chương trình đào tạo bằng tiếng Việt cần đạt trình độ năng lực tiếng Việt bậc mấy? | Config A | 0.70 | 0.75 | 0.60 | 0.65 | Retrieval | Dense search nhầm lẫn giữa chuẩn tiếng Việt (Bậc 4) và chuẩn ngoại ngữ tiếng Anh (Bậc 3) do hai đoạn văn có ngữ nghĩa tương đồng nhưng yêu cầu khác nhau. |
+|   2 | Điểm trung bình môn học THPT yêu cầu đối với thí sinh đăng ký xét tuyển theo Phương thức 2 là bao nhiêu? | Config A | 0.80 | 0.80 | 0.65 | 0.70 | Retrieval | File quy chế tuyển sinh chứa nhiều tiêu chuẩn điểm khác nhau; dense-only ưu tiên chunk phụ lục hơn chunk quy định chính. |
+|   3 | Nhà trường có các hình thức học bổng và hỗ trợ tài chính nào dành cho sinh viên? | Config B | 0.88 | 0.85 | 0.80 | 0.82 | Data | Thông tin học bổng phân tán ở nhiều bài tin tức và quy chế; chunking kích thước 500 ký tự đôi khi cắt mất một phần quỹ và điều kiện hỗ trợ. |
 
 ## Recommendations
 
 | Priority | Action | Evidence from failure analysis | Expected impact | How to verify |
 | -------: | ------ | ------------------------------ | --------------- | ------------- |
-|        1 | Bổ sung synonym mapping và tiền xử lý query tiếng Việt cho BM25 | Case 1: Tách rõ từ khóa tiếng Việt và từ khóa ngoại ngữ | Tăng Context Precision lên > 0.95 | Chạy lại test suite 15 golden cases |
-|        2 | Nâng cấp Hierarchical Chunking (Small-to-Big) cho các bảng quy chế tuyển sinh | Case 2: Các bảng điều kiện tuyển sinh dạng bảng bị cắt vụn qua RecursiveCharacterSplitter | Giảm hiện tượng mất ngữ cảnh điều kiện đi kèm | Đo lường Context Recall trên các câu hỏi điều kiện |
-|        3 | Tinh chỉnh Context Window & Reranker Cross-Encoder chuyên sâu (BGE-reranker-v2-m3) | So sánh Config B với reranker chuyên dụng | Nâng thứ hạng chunk quan trọng nhất lên Top 1 ổn định hơn RRF | Đánh giá qua metric MRR@5 và NDCG@5 |
+|        1 | Bổ sung synonym mapping và tiền xử lý query tiếng Việt cho BM25 | Case 1: Tách rõ từ khóa tiếng Việt và từ khóa ngoại ngữ | Tăng Context Precision lên trên 0.95 | Chạy lại 15 golden cases |
+|        2 | Nâng cấp Hierarchical Chunking cho các bảng quy chế tuyển sinh | Case 2: Các điều kiện điểm / bảng xét tuyển bị cắt ngang | Giảm mất ngữ cảnh và tăng Context Recall | So sánh Recall trên các câu hỏi điều kiện |
+|        3 | Tinh chỉnh Context Window và thêm reranker chuyên sâu | So sánh Config B với các phương án nâng cấp | Nâng Top-1 stability và chất lượng tổng thể | Đo MRR@5 / NDCG@5 |
 
 ## Bonus experiments
 
 | Experiment | Baseline | Metric delta | Latency/cost delta | Conclusion |
 | ---------- | -------- | -----------: | -----------------: | ---------- |
-| Query Expansion tiếng Việt (tự động mở rộng từ viết tắt HaUI -> Đại học Công nghiệp Hà Nội) | Hybrid + RRF | Context Recall: +0.03 | +150ms (1 call LLM nhỏ) | Hiệu quả với câu hỏi ngắn người dùng gõ tắt, phù hợp áp dụng vào chatbot thực tế |
-| Tối ưu hóa Lost-in-the-Middle Reordering | Hybrid + RRF không reorder | Faithfulness: +0.05 | 0ms / $0 | Đưa chunk quan trọng về đầu và cuối context giúp LLM nắm bắt bằng chứng tốt hơn rõ rệt |
+| Query Expansion tiếng Việt | Hybrid + RRF | Context Recall: +0.03 | +150ms (1 call LLM nhỏ) | Có lợi cho câu hỏi viết tắt hoặc mơ hồ về viết tắt trường, đồng thời tăng khả năng tìm đúng chunk |
+| Lost-in-the-middle reordering | Hybrid + RRF không reorder | Faithfulness: +0.05 | 0ms / $0 | Đưa chunk quan trọng về đầu và cuối context giúp mô hình tổng hợp câu trả lời tốt hơn rõ rệt |

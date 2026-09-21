@@ -1,0 +1,6 @@
+{
+    "input":  [
+                  "điều kiện xét duyệt học bổng của trường?"
+              ],
+    "model":  "jina-embeddings-v5-text-nano-retrieval"
+}
