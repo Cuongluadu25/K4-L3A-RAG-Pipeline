@@ -78,12 +78,12 @@ def call_llm(system_prompt: str, user_message: str) -> str:
     if LLM_PROVIDER == "openai":
         from openai import OpenAI
 
-        client + OpenAI(
+        client = OpenAI(
             api_key=os.getenv("OPENAI_API_KEY"),
-            base_url=os.getenv("OPENAI_API_BASE_URL", None),
+            base_url=os.getenv("OPENAI_API_URL", None),
         )
 
-        response = OpenAI().chat.completions.create(
+        response = client.chat.completions.create(
             model=model,
             temperature=TEMPERATURE,
             top_p=TOP_P,
